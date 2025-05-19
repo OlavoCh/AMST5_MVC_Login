@@ -1,0 +1,7 @@
+C:\Users\olavo\escola\AMST5_MVC_Login\obj\Debug\net8.0\AMST5_MVC_Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olavo\escola\AMST5_MVC_Login\obj\Debug\net8.0\AMST5_MVC_Login.AssemblyInfoInputs.cache
+C:\Users\olavo\escola\AMST5_MVC_Login\obj\Debug\net8.0\AMST5_MVC_Login.AssemblyInfo.cs
+C:\Users\olavo\escola\AMST5_MVC_Login\obj\Debug\net8.0\AMST5_MVC_Login.csproj.CoreCompileInputs.cache
+C:\Users\olavo\escola\AMST5_MVC_Login\obj\Debug\net8.0\AMST5_MVC_Login.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\olavo\escola\AMST5_MVC_Login\obj\Debug\net8.0\AMST5_MVC_Login.RazorAssemblyInfo.cache
+C:\Users\olavo\escola\AMST5_MVC_Login\obj\Debug\net8.0\AMST5_MVC_Login.RazorAssemblyInfo.cs

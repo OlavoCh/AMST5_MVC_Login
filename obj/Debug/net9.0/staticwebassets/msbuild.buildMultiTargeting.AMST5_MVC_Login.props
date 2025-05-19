@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AMST5_MVC_Login.props" />
+</Project>
